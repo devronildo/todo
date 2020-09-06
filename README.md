@@ -2,8 +2,14 @@
   Aplicação lista de tarefas para organizar o nosso dia dia, feito para mobile e web.
   podendo sincronizar o mobile e web com código o QrCode.</p>
  <br>
- 🚀 tecnologias: <br>
- ## NodeJs, MongoDB, ReactJs, React Native - Expo. 
+ ## 🚀 tecnologias: <br>
+      NodeJs
+      
+      MongoDB 
+      
+      ReactJs
+      
+      React Native - Expo. 
    
  
 ![Imagem 1](https://github.com/devronildo/todo/blob/master/imagem1.png)
